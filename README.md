@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Anupk
-- 👀 I’m interested in ML, Data science, CV
-- 🌱 I’m currently learning Python, Java
+ # About ME
+- 👋 Hi, I’m ***Anupk***
+- 👀 My interests are web development, coding challenges, learn about new techs, movies, and automating on console.
+- 🌱 I’m good with **.NET**, **Angular**, **SQLDatabase**, **PostgreasSQL** and learning **Python**
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me ...
+- 📫 How to reach me: 7676869612, anupkuppasagoudar@gmail.com
 
 <!---
 Anupkuppasagoudar/Anupkuppasagoudar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
