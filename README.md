@@ -1,4 +1,7 @@
+
+ 
  # About ME
+ ![alt text](https://github.com/Anupkuppasagoudar/Anupkuppasagoudar/blob/main/profileAnup.jpeg)
 - 👋 Hi, I’m ***Anupk***
 - 👀 My interests are web development, coding challenges, learn about new techs, movies, and automating on console.
 - 🌱 I’m good with **.NET**, **Angular**, **SQLDatabase**, **PostgreasSQL** and learning **Python**
